@@ -104,6 +104,10 @@ Existing developments whose GPR have exceeded the Master Plan intensity may qual
 
 Balcony designs shall adhere to the following guidelines and submission requirements:
 
+|Location| Balconies shall be located away from M&E areas to safeguard the quality and usability of these spaces. |
+|---|---|
+|Openness|  Balconies shall have a continuous perimeter opening of at least 40%.|
+
 <table>
     <tbody>
         <tr>

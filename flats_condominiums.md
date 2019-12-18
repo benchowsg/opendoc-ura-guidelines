@@ -107,11 +107,11 @@ Balcony designs shall adhere to the following guidelines and submission requirem
 <table>
     <tbody>
         <tr>
-            <td style="width: 20%; background-color: #f2f2f2;"><strong>Location</strong></td>
+            <td style="width: 20%; background-color: #f2f2f2; text-align: centre;"><strong>Location</strong></td>
             <td style="width: 80%; text-align: justify;">Balconies shall be located away from M&amp;E areas to safeguard the quality and usability of these spaces.</td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Openness</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Openness</strong></td>
             <td style="text-align: justify;">Balconies shall have a continuous perimeter opening of at least 40%.
             <br>
             <br>
@@ -126,7 +126,7 @@ Balcony designs shall adhere to the following guidelines and submission requirem
             </td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Size</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Size</strong></td>
             <td style="text-align: justify;">Total balcony size for each dwelling unit is capped at 15% of the internal nett unit size.
             <br>
             <br>
@@ -134,11 +134,11 @@ Balcony designs shall adhere to the following guidelines and submission requirem
             </td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Width</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Width</strong></td>
             <td style="text-align: justify;">Balconies shall have a minimum width of 1.5m as measured from the external building wall. Exceptions to the width requirement may be considered arising from the design merit of the proposal, such as a curved or odd-shaped balcony but the balcony shall be reasonably sized.</td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Access</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Access</strong></td>
             <td style="text-align: justify;">Balconies with exclusive access from the kitchen/yard/utility space are treated as service balconies and do not qualify for bonus GFA.
             <br>
             <br>
@@ -146,7 +146,7 @@ Balcony designs shall adhere to the following guidelines and submission requirem
             </td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Screen</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Screen</strong></td>
             <td>
             <ul>
                 <li style="text-align: justify;">
@@ -228,7 +228,7 @@ Guidelines on PES:
 <table>
     <tbody>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>Covers</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Covers</strong></td>
             <td>
             <ul style="margin-bottom: 0px;">
                 <li style="text-align: justify;">
@@ -241,11 +241,11 @@ Guidelines on PES:
             </td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2; text-align: left;"><strong>Setback</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>Setback</strong></td>
             <td style="text-align: justify;">The PES cover shall be located outside the setback line, as the covers would add to the bulk and massing of the building.</td>
         </tr>
         <tr>
-            <td style="background-color: #f2f2f2;"><strong>PES Fencing</strong></td>
+            <td style="background-color: #f2f2f2; text-align: centre;"><strong>PES Fencing</strong></td>
             <td style="text-align: justify;">Any PES fencing that defines the extent of the PES shall not exceed 1m in height. This is to ensure the open and semi-outdoor nature of the PES. A 1.8m screening wall may be proposed between PES adjoining each other for privacy purposes. Full height separating walls between adjoining PES may be allowed if they are to meet FSSD’s requirements.
             </td>
         </tr>

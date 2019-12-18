@@ -104,32 +104,6 @@ Existing developments whose GPR have exceeded the Master Plan intensity may qual
 
 Balcony designs shall adhere to the following guidelines and submission requirements:
 
-| **Location** |<span style="font-weight:normal">Balconies shall be located away from M&E areas to safeguard the quality and usability of these spaces.</span>|
-|:-----:|:-----|
-|  **Openness** |Balconies hall have a continuous perimeter opening of at least 40%.<br>![Balcony Perimeter Opening](assets/F07_Balcony_Perimeter_Opening.jpg)<br>**Balcony Perimeter Opening**<br><br>The portions of a balcony that face a parapet wall (eg a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered “open”.<br><br>The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.|
-|  **Size** |Total balcony size for each dwelling unit is capped at 15% of the internal nett unit size.<br> This excludes voids, balconies, air-conditioner ledges and other external areas. The intention is to ensure that the balconies are not disproportionately large relative to the main unit.|
-|  **Access** |Balconies shall have a minimum width of 1.5m as measured from the external building wall. Exceptions to the width requirement may be considered arising from the design merit of the proposal, such as a curved or odd-shaped balcony but the balcony shall be reasonably sized.<br>Balconies with exclusive access from the kitchen/yard/utility space are treated as service balconies and do not qualify for bonus GFA.|
-|  **Site** |* Balconies shall not be enclosed with walls or glass panels as balconies are meant to be semi-outdoor spaces. Balcony screens may can be allowed provided:<br>
- * The balcony screens can be drawn open or retracted fully; and
- * The balcony screens allow for natural ventilation/air flow within the balcony at all times, even when the screens are fully drawn.
-* Balcony screens shall be designed upfront and approved as part of the Development Application process for all new residential developments with proposed balconies (including the residential component of mixed-use developments). Developers may propose a single screen design or a few designs for the end-users to choose from.
-* Developers shall provide a Letter of Undertaking to be submitted at the Development Application Stage, downloadable via the following link (PDF, 351 KB).
-* The plans shall show the balcony screens in elevation view; one view fully retracted and another view fully closed with a fully retracted view in a plan view. The porosity of the balcony screen shall be annotated, and if the screening is louvred, the individual slats shall be fixed (ie not adjustable). Section cuts of the louvres shall be provided to show that the screening is naturally ventilated at all times, even when closed.
-* If sales gallery and/or show unit(s) is/are erected for the development, developers shall be required to install the approved balcony screen in its actual scale in the show unit of the development.
- * If the balcony screens are not erected within the show unit as it may block the entrance, the developer shall erect a mock-up of the full approved balcony screen elsewhere within the show gallery premises.
-* Mock-ups showing only parts of the approved balcony screen or scaled down versions of the balcony screens installed at the balcony are not allowed.
-* For developments with multiple approved balcony screen designs, mock-ups of all the balcony screen designs shall be installed at the show gallery of the development.
-* A written notice and a detailed drawing of the approved balcony screen showing the overall specifications shall be displayed next to the mock-up balcony screen. The written notice shall include the following:
- * Explicitly state that ‘The balcony shall not be enclosed except with the approved balcony screen’.
- * For balconies where the screen is not installed within the balcony of the show unit itself, the notice shall refer to the mock up balcony screen installed in the other show unit or sales gallery.
- * State that the purchasers shall have the option to have the balcony screen pre-installed in the units and make clear if the purchasers have to bear separate costs for its installation.
-* Under rule 10(4) of Housing Developer Rules, developers shall explicitly state in the unit floor plan in Form 3 that “Balconies shall not to be enclosed except with a balcony screen which has been approved and complies with the Competent Authority’s guidelines”.
-* Developers shall provide purchasers the option to have the approved screening pre-installed at their balconies. This option shall be offered via a side letter at the point of issuance of the Option to Purchase. This is not applicable for developers who choose to pre-install approved screens for all balconies in the development.
-* For existing developments without balcony screens, screens may be installed provided they fulfil the performance criteria above, and MCST’s consent is obtained. Safety grilles are not considered as balcony screens, and such installation does not require planning approval.|
-
-
-
-
 <table>
     <tbody>
         <tr>
@@ -141,7 +115,7 @@ Balcony designs shall adhere to the following guidelines and submission requirem
             <td style="text-align: justify;">Balconies shall have a continuous perimeter opening of at least 40%.
             <br>
             <br>
-            <img src="/assets/F07_Balcony_Perimeter_Opening.jpg" alt="Italian Trulli">Balcony Perimeter Opening</a>
+            <img src="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/-/media/34A0FF2BB04E408894A0476039EC08D0.ashx" alt="Balcony Perimeter Opening"></a>
             <br>
             <br>
             <em>Balcony Perimeter Opening</em><br>

@@ -106,9 +106,9 @@ Balcony designs shall adhere to the following guidelines and submission requirem
 
 | Location |Balconies shall be located away from M&E areas to safeguard the quality and usability of these spaces.|
 |-----|-----|
-| Openness |Balconies hall have a continuous perimeter opening of at least 40%.<br>![Balcony Perimeter Opening](assets/F07_Balcony_Perimeter_Opening.jpg)<br>Balcony Perimeter Opening<br>The portions of a balcony that face a parapet wall (eg a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered “open”.|
+|  Openness |Balconies hall have a continuous perimeter opening of at least 40%.<br>![Balcony Perimeter Opening](assets/F07_Balcony_Perimeter_Opening.jpg)<br>**Balcony Perimeter Opening**<br><br>The portions of a balcony that face a parapet wall (eg a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered “open”.<br><br>The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.|
 
-The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.
+
 
 <table>
     <tbody>
